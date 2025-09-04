@@ -18,9 +18,7 @@ We use a **flight dataset** containing millions of rows and perform **data clean
 ## 📂 Project Structure
 flight-data-analysis/
 ├── data/
-│ └── flights.csv # Dataset (sample or full)
-├── notebooks/
-│ └── flight_analysis.ipynb # Jupyter notebook version
+│ └── flights.csv # Dataset 
 ├── src/
 │ └── flight_analysis.py # Main PySpark script
 ├── README.md

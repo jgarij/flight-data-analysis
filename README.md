@@ -53,12 +53,12 @@ flight-data-analysis/
    cd flight-data-analysis
 
 2.Install dependencies:
-
-pip install -r requirements.txt
+```bash
+   pip install -r requirements.txt
 
 
 3.Run the PySpark script:
-
+```bash
 spark-submit src/flight_analysis.py
 
 
